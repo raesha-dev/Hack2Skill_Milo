@@ -20,7 +20,7 @@ Anonymous Support Rooms: Connect with peers who share similar feelings.
 
 Safety Net: Detects risky or self-harm language, comforts the user, and guides them to professional help.
 
-⚙️ How It Works
+How It Works...
 
 Frontend: Built with Vite + React, designed to mimic Instagram DMs.
 
