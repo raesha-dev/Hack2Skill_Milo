@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "milo-your-friend",
-  "private_key_id": "b238829da88a2b3107388c1c2ef3d2ac4081dd53",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCIRCS7WWAwao6p\nKB6myBQyS1U9s/U5qz7OqruPRs5Trtz2LV68mRnDpbum1s/ew0ghzcF14mKnYB1F\nTYJal7lOJs9msLMouCukdbK2ZOtar5hhb9bSNnCKeI6b5bcWlbedjxYOOETr51j4\nsO+CY4j8xQSU4gVDh1LAK/MZR5JZclCx+RdgHTcK/AkWLoP/UB3urYX6i3sjWGQx\nIty4gG98yoEPlrGvDKfo6dJ8eTcw92GkxBsWHjDnHc8I9YInwZzdKhRNDVGbQBgV\nLEcC1MV9oM+gQ12xF2eQTlEMRWx/cgYQUhNc74tLJAiAoS57mZ/r92urZJljooGP\nOaqYeDudAgMBAAECggEAClQ+A4yMD8d3/mcJ4cMPUtumf7mdKEysg15qPrtThwDd\ng3SfdoTVcODmd0hXs+9SD6vo0v6A02aj+V2deLABDiU/ee2Bex/wwPPiAtTmCTb/\nwj0Hx+H0CG8IglU4mmfpZfJTbesCgG5GLn28/gF9AAoQJZf3Za3DjkkWkY89DvYQ\nyi7k9TWJIHrm+aEx6Tyu4T8c+5GbqCY7cOO4UPxLuv9K0U35i/TatPyybcHGI3Hp\n4w5SqW8Zm53J+ba9AgA5DU9wcE/6WkuyNjd+XJH8L8HmJCVWCeDG9n/tlbjmv4jw\nXGehPeVAM7JLMxOsNLoftTbPwkWKD71jSMCy90kAuQKBgQC8wHSl7L/aRZ/t8rx2\nPnZ29xQUuiPjJqtOoOLxjdo45yMeBa0lya8SMrJ3flc2uw1cYq8HR/y2Qcglcx3g\nB49P4LUA1yTeDbc3/WiCoTxvHDnFtCSHt+KU0AYgHsKNCb90LBr6bUBCc2j7xuJP\n2WitOvIgVWFhPWtJpX++9zDnKQKBgQC40J4I3D8OkdoHFzk8tzi/y+nFAhJSXctr\nVTYG1DKqntNQnGQShyF9WFrdl01pDBOq2JxJgGgM72RYLUj0WKNpXaxyltq47Vf/\nG1/Q5nquIKxkyNW2+oRb2gPhbmuRouG9gkCsxLub0AOPpndXTUMAJliVu0i7c8mU\n/76MDRYDVQKBgEKTb5GG7DTFEiAP2kGqzoYvqDmXXkkkvo/BV8rzyeEARfa08dm+\nRa4Zi7FyMrjvSUso06uxzIVMtpfe/s6iW/5EuBNPz4UzOUjabR6GWJaoUghV/fyQ\n866hoUd7EgxFP+5uECX8mwnVQ1ZrVC/t82oGvJiDBRITY+BaK7Dj56/hAoGANl03\nf4e6DMEej2NndNK4oMKM22TGmu/4PHRuVgfpd4MMyfOXBFQ3p7Vr1S8CmFnzFxhs\nsLpS4SsyKzX29dl1CDOD3Jk/cZJvhh05TCvf/oSh8WuaYh7C/HnfFlryzX5KRQKh\nn7CnNygzQ/hFtqqFgO/GsxTKSkm/DFNGa9AVn5kCgYBZOaGSvvQRmRQ2K7pgUPFz\nIHZRGq8S2E1BOMLEF82+rVgXhNdBQsQaG7woN+Gy2INNtG+QBAb0iKvh1ozmP1aC\nNXCDZd9JIGdOwqJL0m030bjWKxO8sEtHuwisFWQAR/Ks/XYCNYOqgaYdtx4SHHFQ\nPWSr8vZoYaYMM3pQFexSnA==\n-----END PRIVATE KEY-----\n",
-  "client_email": "milo-backend-sa@milo-your-friend.iam.gserviceaccount.com",
-  "client_id": "104075876454837788976",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/milo-backend-sa%40milo-your-friend.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
