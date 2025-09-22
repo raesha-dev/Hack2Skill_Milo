@@ -1,7 +1,7 @@
 # Welcome to your Project MILO
 ## Project info
 
-Milo — Your Digital Buddy for Youth Mental Wellness 🌸
+Milo — Your Digital Buddy for Youth Mental Wellness  :D
 
 Milo is a friendly digital companion designed to support youth mental wellness. It lives inside an Instagram-style chat and offers daily check-ins, encouragement, mood tracking, and safe support — like a friend who’s always there.
 
