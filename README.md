@@ -1,4 +1,4 @@
-# Welcome to your Project MILO
+# Welcome to our Project MILO
 ## Project info
 
 Milo — Your Digital Buddy for Youth Mental Wellness  :D
