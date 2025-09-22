@@ -5,7 +5,7 @@
 backend/.env
 .env.local
 node_modules
-.netlify
+backend/.netlify
 backend/milo-your-friend-b238829da88a.json
 dist
 backend/venv
