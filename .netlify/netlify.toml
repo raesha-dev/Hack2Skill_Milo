@@ -7,7 +7,7 @@ redirects = []
 [functions."*"]
 
 [build]
-publish = "/Users/reesha/Library/Mobile Documents/com~apple~CloudDocs/CODE SPACES/Final_Milo/milo-mindful-garden/dist"
+publish = "/Final_Milo/milo-mindful-garden/dist"
 publishOrigin = "ui"
 commandOrigin = "ui"
 command = "npm run build"
