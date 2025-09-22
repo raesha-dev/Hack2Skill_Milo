@@ -1,0 +1,11 @@
+flask
+google-cloud-firestore
+google-cloud-storage
+google-cloud-texttospeech
+google-cloud-language
+python-dotenv
+openai
+requests
+gunicorn
+flask_cors
+
